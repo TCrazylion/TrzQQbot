@@ -1,0 +1,7 @@
+*.pyc
+.python-version
+*.log
+config.json
+venv/
+__pycache__/
+.vscode/
